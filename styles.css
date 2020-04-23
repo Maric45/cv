@@ -1,0 +1,116 @@
+body {
+  background-color: #97E5EF;
+  text-align: center;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: green;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 a {
+  color: #EA6227;
+}
+
+h1 {
+  color: #EA6227;
+  padding-bottom: 50px;
+}
+
+a:hover {
+  background-color: orange;
+}
+
+/* Home Page */
+
+.mePic {
+  width: 20%;
+}
+
+.description-text {
+  padding: 3% 15% 0% 15%;
+}
+
+.icons {
+  font-size: 50px;
+  padding-bottom: 50px;
+}
+
+.icons .fab {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/* Anime Section */
+
+.animeimg {
+  width: 50%;
+}
+
+.anime-row {
+  padding: 25px 0px 25px 0px;
+}
+
+.Anime {
+  position: absolute;
+  width: 50%;
+}
+
+.anime-description {
+  font-family: 'Manrope', sans-serif;
+  font-size: 30px;
+  padding-right: 30px;
+}
+
+.Anime h4 {
+  padding: 4% 5% 0% 5%;
+}
+
+.animemotivator {
+  padding: 5% 2.5%;
+}
+
+.vl {
+  border-left: 6px solid green;
+  height: 1350px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 55px;
+}
+
+/* Gaming Section  */
+
+.Gaming {
+  position: absolute;
+  left: 50%;
+
+}
+
+.Gaming h4 {
+  padding: 4% 5% 0% 5%;
+}
+
+.game-names {
+  padding-top: 30px;
+  font-family: 'Bangers', cursive;
+  padding-bottom: 15px;
+}
+
+.Gaming h1 {
+  color: red;
+}
+
+.gamepic {
+
+  width: 50%;
+}
+
+.gamedesc {
+  font-family: 'Manrope', sans-serif;
+  font-size: 20px;
+  padding: 3% 5% 0 5%;
+  line-height: 2rem;
+}
